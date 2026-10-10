@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1787978882 source:c:\users\hp\documents\table-track(pizza and restaurant management system )\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Menu.h"
+	"Order.h"
+	"Admin.h"
+
+1787943625 source:c:\users\hp\documents\table-track(pizza and restaurant management system )\order.c
+	<stdio.h>
+	"Order.h"
+	"Menu.h"
+
+1788083722 source:c:\users\hp\documents\table-track(pizza and restaurant management system )\admin.c
+	<stdio.h>
+	<string.h>
+	"Admin.h"
+
+1787977655 c:\users\hp\documents\table-track(pizza and restaurant management system )\admin.h
+
+1787817949 source:c:\tablettack\restaurant management system\menu.c
+
+1787977320 source:c:\users\hp\documents\table-track(pizza and restaurant management system )\menu.c
+	<stdio.h>
+	<string.h>
+	"Menu.h"
+
+1787819535 c:\users\hp\documents\table-track(pizza and restaurant management system )\menu.h
+
+1787977713 c:\users\hp\documents\table-track(pizza and restaurant management system )\order.h
+

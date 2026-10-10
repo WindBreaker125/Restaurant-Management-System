@@ -1,0 +1,6 @@
+2|Margherita |pizza|450.00|15
+3|Classic Chicken|pizza|350.00|20
+4|Classic Veggie |pizza|460.00|15
+5|BBQ Chicken|pizza|400.00|19
+6|Calzone|pizza|430.00|20
+7|biryani|bangaliyana|400.00|26
